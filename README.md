@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Haseen</h1>
 <h3 align="center">A passionate developer (in progress) with experience in entry-level programming projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanhaseen&color=blueviolet&style=for-the-badge&base=326" alt="hassanhaseen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanhaseen&label=Profile%20views&color=3a0eb4&style=flat-square" alt="hassanhaseen" /> </p>
 
 - 🎓 I'm a Computer Science UnderGrad at FAST NATIONAL UNIVERSITY, expecting to graduate in 2025.
 - 🔭 I’m currently working on E-Commerce (Online Games Account Seller/Trader)**
