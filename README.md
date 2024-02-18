@@ -12,18 +12,18 @@
 - ⚡ Fun fact **I think I am funny**
 - 👯 My Interests: PC Gaming, Netflix, Badminton.
 
-<p align="left"> <a href="https://twitter.com/hassanhaseen4" target="blank"><img src="https://img.shields.io/twitter/follow/hassanhaseen04?logo=twitter&style=for-the-badge" alt="hassanhaseen04" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hassanhaseen4" target="_blank"><img src="https://img.shields.io/twitter/follow/hassanhaseen04?logo=twitter&style=for-the-badge" alt="hassanhaseen04" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hassanhaseen4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassanhaseen04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hassan-haseen-662536229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-haseen-662536229" height="30" width="40" /></a>
-<a href="https://fb.com/hassanhaseen512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassanhaseen512" height="30" width="40" /></a>
-<a href="https://instagram.com/hassan._.haseen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan._.haseen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC0ePWLB_1Ojjck5e3OeCrIg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc0epwlb_1ojjck5e3oecrig" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/664547985274699781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="real_krat0s" height="30" width="40" /></a>
+<a href="https://twitter.com/hassanhaseen4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassanhaseen04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hassan-haseen-662536229" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-haseen-662536229" height="30" width="40" /></a>
+<a href="https://fb.com/hassanhaseen512" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassanhaseen512" height="30" width="40" /></a>
+<a href="https://instagram.com/hassan._.haseen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan._.haseen" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0ePWLB_1Ojjck5e3OeCrIg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc0epwlb_1ojjck5e3oecrig" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/664547985274699781" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="real_krat0s" height="30" width="40" /></a>
 </p>
-<a href="https://steamcommunity.com/id/realKrAt0s/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" alt="realKrAt0s" height="40" width="40" /></a>
+<a href="https://steamcommunity.com/id/realKrAt0s/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" alt="realKrAt0s" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
