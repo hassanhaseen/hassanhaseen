@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=84C2C0&reversal=false&section=header"/>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Hi 👋, I'm Hassan Haseen!" alt="Hi 👋, I'm Hassan Haseen!" /></a></h1>
+<div align="center">
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Hi 👋, I'm Hassan Haseen!" alt="Typing SVG" /></a>
+</div>
 
 <h3 align="center">A passionate developer (in progress) with experience in entry-level programming projects</h3
 
@@ -24,8 +26,6 @@ width="20px" />  A little more detail: </h3>
 <a href="https://www.youtube.com/channel/UC0ePWLB_1Ojjck5e3OeCrIg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc0epwlb_1ojjck5e3oecrig" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/664547985274699781" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="real_krat0s" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/realKrAt0s/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" alt="realKrAt0s" height="40" width="40" /></a>
-</p>
-
 </p>
 
 <summary align="center"><h2><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/laptop_code.gif" width="25px"> Languages and Tools </h2></summary>
