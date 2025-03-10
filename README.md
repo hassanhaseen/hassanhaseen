@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=84C2C0&reversal=false&section=header"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Hi 👋, I'm Hassan Haseen!" alt="Typing SVG" /></a>
+<br>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Hi 👋, I'm Hassan Haseen!" alt="Hi 👋, I'm Hassan Haseen!" /></a>
 </div>
 
 <h3 align="center">A passionate developer (in progress) with experience in entry-level programming projects</h3
@@ -17,7 +18,7 @@ width="20px" />  A little more detail: </h3>
 - ⚡ Fun fact **I think I am funny.**
 - 👯 My Interests: PC Gaming, Netflix, Badminton.
 
- 
+
 <summary align="center"><h2 ><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/handshake2.gif" width="25px"> Connect With Me </h2></summary><p align="center">
 <a href="https://twitter.com/hassanhaseen4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassanhaseen04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hassan-haseen-662536229" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-haseen-662536229" height="30" width="40" /></a>
