@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=84C2C0&reversal=false&section=header"/>
 
-<!-- Intro Section -->
+<!-- Thank You Message -->
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25&lines=Hi 👋, I'm Hassan Haseen!" alt="Hi 👋, I'm Hassan Haseen!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25&lines=Thank you for visiting! 👋" alt="Thank you for visiting!" />
   </a>
 </div>
 
@@ -75,7 +75,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/hassanhaseen/count.svg" alt="Visitor Count"/>
+  <img src="https://profile-counter.glitch.me/{hassanhaseen}/count.svg" alt="Visitor Count"/>
 </p>
 
 <!-- Github Achievements -->
@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username={hassanhaseen}&theme=onedark&no-frame=true" alt="Github Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=hassanhaseen&theme=onedark&no-frame=true" alt="Github Trophies"/>
   </a>
 </p>
 
