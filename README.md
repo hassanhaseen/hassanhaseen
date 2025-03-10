@@ -27,7 +27,7 @@
 
 <!-- Connect With Me Section (Fixed Alignment) -->
 <div align="center">
-  <h2>
+  <h2 align="center">
     <img alt="Handshake GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/handshake2.gif" width="25px" />
     Connect With Me
   </h2>
@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hassanhaseen&theme=onedark&no-frame=true" alt="Github Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username={hassanhaseen}&theme=onedark&no-frame=true" alt="Github Trophies"/>
   </a>
 </p>
 
