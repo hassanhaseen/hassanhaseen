@@ -1,15 +1,15 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=84C2C0&reversal=false&section=header"/>
 
-<!-- Thank You Message -->
+<!-- Hi Message -->
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Hassan+Haseen!" alt="Hi 👋+ I'm Hassan Haseen!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Hassan+Haseen!" alt="Hi 👋 I'm Hassan Haseen!" />
   </a>
 </div>
 
-<p align="center"> A passionate developer (in progress) with experience in entry-level programming projects</p>
+<p align="center">A passionate developer (in progress) with experience in entry-level programming projects</p>
 
 <!-- Right Side GIF -->
 <img align="right" alt="AI Working GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/ai.gif" width="35%" height="45%"/>
@@ -25,11 +25,9 @@
 - ⚡ Fun fact: **I think I am funny.**
 - 👯 My Interests: PC Gaming, Netflix, Badminton.
 
+<!-- Connect With Me Section -->
 <div align="center">
-
-<!-- Connect With Me Section (Fixed Alignment) -->
-<div align="center">
-  <h2 align="center">
+  <h2>
     <img alt="Handshake GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/handshake2.gif" width="25px" />
     Connect With Me
   </h2>
@@ -140,9 +138,9 @@
   Visitors Count
 </h2>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{hassanhaseen}/count.svg" alt="Visitor Count"/>
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hassanhaseen/count.svg" alt="Visitor Count"/>
+</div>
 
 <!-- Github Achievements -->
 <h2 align="center">
@@ -150,11 +148,11 @@
   Github Achievements
 </h2>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hassanhaseen&theme=onedark&no-frame=true" alt="Github Trophies"/>
   </a>
-</p>
+</div>
 
 <!-- Thank You Message -->
 <div align="center">
@@ -162,7 +160,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25&lines=Thank you for visiting! 👋" alt="Thank you for visiting!" />
   </a>
-</div>
 </div>
 
 <!-- Footer Banner -->
