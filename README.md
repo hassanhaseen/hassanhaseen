@@ -19,7 +19,7 @@
   A little more detail:
 </h3>
 
-- 🎓 I'm a **Computer Science** UnderGrad at **FAST NATIONAL UNIVERSITY**, *expecting to graduate in 2025*.
+- 🎓 I'm a **Computer Science** UnderGrad at **FAST NATIONAL UNIVERSITY**.
 - 🔭 I’m currently working on **E-Commerce**. (Online Games Account Seller/Trader)
 - 📫 Reach me at **hassanhaseen512@gmail.com**
 - ⚡ Fun fact: **I think I am funny.**
