@@ -9,18 +9,20 @@
   </a>
 </div>
 
-<p align="center">A passionate developer (in progress) with experience in entry-level programming projects</p>
+<p align="center">A passionate developer (in progress) with experience in entry-level programming projects.</p>
+<h2></h2>
+
 
 <!-- Right Side GIF -->
 <img align="right" alt="AI Working GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/ai.gif" width="35%" height="45%"/>
 
 <h3>
-  <img alt="Paper GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/refs/heads/main/Image/paper.gif" width="20px" />
+  <img alt="Paper GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/Developer.gif" width="20px" />
   A little more detail:
 </h3>
 
 - 🎓 I'm a **Computer Science** UnderGrad at **FAST NATIONAL UNIVERSITY**.
-- 🔭 I’m currently working on **E-Commerce**. (Online Games Account Seller/Trader)
+- 🔭 I’m currently working on **E-Commerce**. (Gaming Industry)
 - 📫 Reach me at **hassanhaseen512@gmail.com**
 - ⚡ Fun fact: **I think I am funny.**
 - 👯 My Interests: PC Gaming, Netflix, Badminton.
@@ -31,112 +33,55 @@
 <div align="center">
   <h2>
     <img alt="Handshake GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/handshake2.gif" width="25px" />
-    Connect With Me
+    Socials
   </h2>
+  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/664547985274699781) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/hassanhaseen512) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:hassanhaseen512@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/hassan._.haseen) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/hassanhaseen) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@hassanhaseen) 
+[![Steam](https://img.shields.io/badge/Steam-%230077B5.svg?logo=steam&logoColor=white&style=for-the-badge)](https://steamcommunity.com/id/realKrAt0s/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/hassanhaseen4) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/@hassanhaseen)
 
-  <p>
-    <a href="https://twitter.com/hassanhaseen4" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - hassanhaseen4" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/hassan-haseen-662536229" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - hassan-haseen" height="30" width="40" />
-    </a>
-    <a href="https://fb.com/hassanhaseen512" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - hassanhaseen512" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/hassan._.haseen" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - hassan._.haseen" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/channel/UC0ePWLB_1Ojjck5e3OeCrIg" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube - Hassan Haseen" height="30" width="40" />
-    </a>
-    <a href="https://discordapp.com/users/664547985274699781" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord - real_krat0s" height="30" width="40" />
-    </a>
-    <a href="https://steamcommunity.com/id/realKrAt0s/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" alt="Steam - realKrAt0s" height="40" width="40" />
-    </a>
-  </p>
+
 </div>
 
 <!-- Languages and Tools Section -->
 <h2 align="center">
   <img alt="Laptop Code GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/laptop_code.gif" width="25px" />
-  Languages and Tools
+  Tech Stack
 </h2>
 
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif?raw=true">
+    <img src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif?raw=true" alt="Skills Animation GIF">
+  </picture>
+</div>
+
+<br>
+
+<!-- Github Trophies -->
+<h2 align="center">
+  <img alt="Statistics GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/statistics.gif" width="25px" />
+  Github Stats
+</h2>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-readme-stats.vercel.app/api?username=hassanhaseen&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="Hassan Haseen's Github Stats"/><br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=hassanhaseen&theme=gotham&hide_border=true" alt="Hassan Haseen's Github Stats"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanhaseen&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Hassan Haseen's Github Stats"/><br/>
   </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Programming" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
 <!-- Visitors Count -->
 <h2 align="center">
-  <img alt="Statistics GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/statistics.gif" width="25px" />
+  <img alt="Visitors GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/laptop.gif" width="25px" />
   Visitors Count
 </h2>
 
@@ -144,18 +89,30 @@
   <img src="https://profile-counter.glitch.me/{hassanhaseen}/count.svg" alt="Visitor Count"/>
 </div>
 
-<!-- Github Achievements -->
+<!-- Github Trophies -->
 <h2 align="center">
   <img alt="Trophy GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/trophy.gif" width="25px" />
-  Github Achievements
+  Github Trophies
 </h2>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hassanhaseen&theme=onedark&no-frame=true" alt="Github Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=hassanhaseen&theme=apprentice&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Github Trophies"/>
   </a>
 </div>
 
+<!-- Random Dev Quote -->
+<h2 align="center">
+  <img alt="Trophy GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/refs/heads/main/Image/paper.gif" width="25px" />
+  Random Dev Quote
+</h2>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=merko" alt="Random Dev Quote"/>
+  </a>
+</div>
+<h2></h2>
 <!-- Thank You Message -->
 <div align="center">
   <br>
