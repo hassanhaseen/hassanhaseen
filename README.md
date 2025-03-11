@@ -45,7 +45,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/hassanhaseen)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@hassanhaseen)
 [![Steam](https://img.shields.io/badge/Steam-%230077B5.svg?logo=steam&logoColor=white&style=for-the-badge)](https://steamcommunity.com/id/realKrAt0s/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/hassanhaseen4)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/@hassanhaseen)
 
 </div>
