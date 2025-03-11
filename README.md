@@ -4,7 +4,7 @@
 <!-- Hi Message -->
 <div align="center">
   <br>
-  <a href="https://git.io/typing-svg">
+  <a>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Hassan+Haseen!" alt="Hi 👋 I'm Hassan Haseen!" />
   </a>
 </div>
@@ -76,7 +76,7 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a>
     <img src="https://github-readme-stats.vercel.app/api?username=hassanhaseen&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="Hassan Haseen's Github Stats"/><br/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=hassanhaseen&theme=gotham&hide_border=true" alt="Hassan Haseen's Github Stats"/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanhaseen&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Hassan Haseen's Github Stats"/><br/>
@@ -100,7 +100,7 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a>
     <img src="https://github-profile-trophy.vercel.app/?username=hassanhaseen&theme=apprentice&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Github Trophies"/>
   </a>
 </div>
@@ -112,7 +112,7 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a>
     <img src="https://quotes-github-readme.vercel.app/api?theme=merko" alt="Random Dev Quote"/>
   </a>
 </div>
@@ -120,7 +120,7 @@
 <!-- Thank You Message -->
 <div align="center">
   <br>
-  <a href="https://git.io/typing-svg">
+  <a>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25&lines=Thank you for visiting! 👋" alt="Thank you for visiting!" />
   </a>
 </div>
