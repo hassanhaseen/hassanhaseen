@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<h3 align="center">A passionate developer (in progress) with experience in entry-level programming projects</h3>
+<p align="center"> A passionate developer (in progress) with experience in entry-level programming projects</p>
 
 <!-- Right Side GIF -->
 <img align="right" alt="AI Working GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/ai.gif" width="35%" height="45%"/>
