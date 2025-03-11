@@ -19,11 +19,11 @@
   A little more detail:
 </h3>
 
-- 🎓 I'm a **Computer Science** UnderGrad at **FAST NATIONAL UNIVERSITY**, *expecting to graduate in 2025*.
-- 🔭 I’m currently working on **E-Commerce**. (Online Games Account Seller/Trader)
-- 📫 Reach me at **hassanhaseen512@gmail.com**
-- ⚡ Fun fact: **I think I am funny.**
-- 👯 My Interests: PC Gaming, Netflix, Badminton.
+-> 🎓 I'm a **Computer Science** UnderGrad at **FAST NATIONAL UNIVERSITY**, *expecting to graduate in 2025*.
+-> 🔭 I’m currently working on **E-Commerce**. (Online Games Account Seller/Trader)
+-> 📫 Reach me at **hassanhaseen512@gmail.com**
+-> ⚡ Fun fact: **I think I am funny.**
+-> 👯 My Interests: PC Gaming, Netflix, Badminton.
 
 <!-- Connect With Me Section -->
 <div align="center">
@@ -139,7 +139,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/hassanhaseen/count.svg" alt="Visitor Count"/>
+  <img src="https://profile-counter.glitch.me/{hassanhaseen}/count.svg" alt="Visitor Count"/>
 </div>
 
 <!-- Github Achievements -->
