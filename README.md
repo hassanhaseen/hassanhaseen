@@ -121,7 +121,7 @@
 <div align="center">
   <br>
   <a>
-    <img src=bye.gif alt="Thank you for visiting!" />
+    <img src=bye1.gif alt="Thank you for visiting!" />
   </a>
 </div>
 
