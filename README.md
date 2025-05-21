@@ -5,7 +5,7 @@
 <div align="center">
   <br>
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Hassan+Haseen!" alt="Hi 👋 I'm Hassan Haseen!" />
+    <img src=name.gif alt="Hi 👋 I'm Hassan Haseen!" />
   </a>
 </div>
 
