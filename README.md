@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<p align="center">A passionate developer (in progress) with experience in entry-level programming projects.</p>
+<p align="center">A passionate developer with experience in entry-level programming projects.</p>
 <h2></h2>
 
 
@@ -21,7 +21,7 @@
   A little more detail:
 </h3>
 
-- 🎓 I'm a **Computer Science** UnderGrad at **FAST NATIONAL UNIVERSITY**.
+- 🎓 I'm a **Computer Science** Graduate from **FAST NATIONAL UNIVERSITY**.
 - 🔭 I’m currently working on **E-Commerce**. (Gaming Industry)
 - 📫 Reach me at **hassanhaseen512@gmail.com**
 - ⚡ Fun fact: **I think I am funny.**
