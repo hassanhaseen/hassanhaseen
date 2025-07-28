@@ -23,7 +23,7 @@
 
 - 🎓 I'm a **Computer Science** Graduate from **FAST NATIONAL UNIVERSITY**.
 - 🔭 I’m currently working on **E-Commerce**. (Gaming Industry)
-- 📫 Reach me at **hassanhaseen512@gmail.com**
+- 📫 Reach me at **beastfurious353@gmail.com**
 - ⚡ Fun fact: **I think I am funny.**
 - 👯 My Interests: PC Gaming, Netflix, Badminton.
 
