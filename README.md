@@ -77,9 +77,9 @@
 
 <div align="center">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=hassanhaseen&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="Hassan Haseen's Github Stats"/><br/>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=hassanhaseen&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="Hassan Haseen's Github Stats"/><br/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=hassanhaseen&theme=gotham&hide_border=true" alt="Hassan Haseen's Github Stats"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanhaseen&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Hassan Haseen's Github Stats"/><br/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hassanhaseen&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Hassan Haseen's Github Stats"/><br/>
   </a>
 </div>
 <br>
