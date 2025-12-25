@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<p align="center">A passionate developer with experience in entry-level programming projects.</p>
+<p align="center">A passionate developer with hands-on experience in development projects.</p>
 <h2></h2>
 
 
@@ -22,8 +22,9 @@
 </h3>
 
 - 🎓 I'm a **Computer Science** Graduate from **FAST NATIONAL UNIVERSITY**.
-- 🔭 I’m currently working on **E-Commerce**. (Gaming Industry)
+- 🔭 I’m currently working as **Python Developer (AI-Centric)** at Hubble42 Inc.
 - 📫 Reach me at **hassanhaseen514@gmail.com**
+- 🌐 Check out my live portfolio at [hassanhaseen.com](https://hassanhaseen.com)
 - ⚡ Fun fact: **I think I am funny.**
 - 👯 My Interests: PC Gaming, Netflix, Badminton.
 
@@ -90,7 +91,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{hassanhaseen}/count.svg" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=hassanhaseen&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 <br>
 <!-- Github Trophies -->
