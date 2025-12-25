@@ -101,7 +101,7 @@
 
 <div align="center">
   <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=hassanhaseen&theme=apprentice&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Github Trophies"/>
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=hassanhaseen&theme=apprentice&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Github Trophies"/>
   </a>
 </div>
 <br>
