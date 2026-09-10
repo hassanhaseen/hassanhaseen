@@ -79,7 +79,7 @@
 <div align="center">
   <a>
     <img src="https://github-readme-stats-fast.vercel.app/api?username=hassanhaseen&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="Hassan Haseen's Github Stats"/><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=hassanhaseen&theme=gotham&hide_border=true" alt="Hassan Haseen's Github Stats"/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanhaseen&theme=gotham&hide_border=true" alt="Hassan Haseen's Github Stats"/><br/>
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hassanhaseen&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Hassan Haseen's Github Stats"/><br/>
   </a>
 </div>
@@ -102,7 +102,7 @@
 
 <div align="center">
   <a>
-    <img src="https://github-profile-trophy-tawny.vercel.app/?username=hassanhaseen&theme=apprentice&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Github Trophies"/>
+    <img src="https://trophy.ryglcloud.net/?username=hassanhaseen&theme=apprentice&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Github Trophies"/>
   </a>
 </div>
 <br>
